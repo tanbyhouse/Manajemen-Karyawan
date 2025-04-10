@@ -1,0 +1,14 @@
+D:\KULIAH\PBO\Manajemen_Karyawan\Manajemen_Karyawan\obj\Debug\net8.0\Manajemen_Karyawan.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\PBO\Manajemen_Karyawan\Manajemen_Karyawan\obj\Debug\net8.0\Manajemen_Karyawan.AssemblyInfoInputs.cache
+D:\KULIAH\PBO\Manajemen_Karyawan\Manajemen_Karyawan\obj\Debug\net8.0\Manajemen_Karyawan.AssemblyInfo.cs
+D:\KULIAH\PBO\Manajemen_Karyawan\Manajemen_Karyawan\obj\Debug\net8.0\Manajemen_Karyawan.csproj.CoreCompileInputs.cache
+D:\KULIAH\PBO\Manajemen_Karyawan\Manajemen_Karyawan\bin\Debug\net8.0\Manajemen_Karyawan.exe
+D:\KULIAH\PBO\Manajemen_Karyawan\Manajemen_Karyawan\bin\Debug\net8.0\Manajemen_Karyawan.deps.json
+D:\KULIAH\PBO\Manajemen_Karyawan\Manajemen_Karyawan\bin\Debug\net8.0\Manajemen_Karyawan.runtimeconfig.json
+D:\KULIAH\PBO\Manajemen_Karyawan\Manajemen_Karyawan\bin\Debug\net8.0\Manajemen_Karyawan.dll
+D:\KULIAH\PBO\Manajemen_Karyawan\Manajemen_Karyawan\bin\Debug\net8.0\Manajemen_Karyawan.pdb
+D:\KULIAH\PBO\Manajemen_Karyawan\Manajemen_Karyawan\obj\Debug\net8.0\Manajemen_Karyawan.dll
+D:\KULIAH\PBO\Manajemen_Karyawan\Manajemen_Karyawan\obj\Debug\net8.0\refint\Manajemen_Karyawan.dll
+D:\KULIAH\PBO\Manajemen_Karyawan\Manajemen_Karyawan\obj\Debug\net8.0\Manajemen_Karyawan.pdb
+D:\KULIAH\PBO\Manajemen_Karyawan\Manajemen_Karyawan\obj\Debug\net8.0\Manajemen_Karyawan.genruntimeconfig.cache
+D:\KULIAH\PBO\Manajemen_Karyawan\Manajemen_Karyawan\obj\Debug\net8.0\ref\Manajemen_Karyawan.dll
