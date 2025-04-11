@@ -2,6 +2,7 @@
 
 namespace Manajemen_Karyawan
 {
+    //parentclass
     public class Karyawan
     {
         private string nama;
@@ -37,13 +38,13 @@ namespace Manajemen_Karyawan
         }
     }
 
+    //subclass karyawan tetap
     public class karyawanTetap : Karyawan
     {
         private double bonus = 500000;
 
         public karyawanTetap(string nama, string id, double gajiPokok) : base(nama, id, gajiPokok)
         {
-
         }
 
         public override double hitungGaji()
@@ -51,26 +52,24 @@ namespace Manajemen_Karyawan
             return GajiPokok + bonus;
         }
     }
-
+    //subclass karyawan kontrak
     public class karyawanKontrak : Karyawan
     {
         private double potongan = 200000;
 
         public karyawanKontrak(string nama, string id, double gajiPokok) : base(nama, id, gajiPokok)
         {
-
         }
         public override double hitungGaji()
         {
             return GajiPokok - potongan;
         }
     }
-
+    //subclass karyawan magang
     public class karyawanMagang : Karyawan
     {
         public karyawanMagang(string nama, string id, double gajiPokok) : base(nama, id, gajiPokok)
         {
-
         }
         public override double hitungGaji()
         {
@@ -78,6 +77,7 @@ namespace Manajemen_Karyawan
         }
     }
 
+    //main
     class Program
     {
         static void Main(string[] Args)
@@ -88,10 +88,8 @@ namespace Manajemen_Karyawan
 
             Console.WriteLine("Nama Karyawan: ");
             string nama = Console.ReadLine();
-
             Console.WriteLine("ID Karyawan: ");
             string id = Console.ReadLine();
-
             Console.WriteLine("Gaji Pokok Karyawan: ");
             double gajiPokok = double.Parse(Console.ReadLine());
 
@@ -112,7 +110,7 @@ namespace Manajemen_Karyawan
                     Console.WriteLine("Jenis tidak valid");
                     return;
             }
-
+            //menghitung dan menampilkan
             double gajiAkhir = karyawan.hitungGaji();
             Console.WriteLine($"Gaji akhir karyawan {karyawan.Nama} adalah Rp. {gajiAkhir}");
         }
